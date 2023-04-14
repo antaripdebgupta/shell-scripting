@@ -1,4 +1,4 @@
-#/!bin/bash
+#! /bin/bash
 
 echo "Enter the length of password: "
 read  PASS_SIZE
